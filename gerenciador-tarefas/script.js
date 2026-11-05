@@ -22,7 +22,7 @@ function adicionarTarefa() {
 
         // CRIA O BOTÃO EXCLUIR
         const botaoExcluir = document.createElement("button");
-        botaoExcluir.textContent = "Excluir";
+        botaoExcluir.innerHTML = '<i class="fa-solid fa-trash"></i>';
 
         // EVENTO PARA MARCAR A TAREFA COMO CONCLUÍDA
         checkbox.addEventListener("change", function () {
