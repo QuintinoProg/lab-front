@@ -58,7 +58,7 @@ p {
 }
 
 #adicionar {
-    background-color: #4A90E2;
+    background-color: #4CAF50;
     color: white;
     border: none;
     padding: 10px 18px;
@@ -67,11 +67,11 @@ p {
 }
 
 #adicionar:hover {
-    background-color: #357ABD;
+    background-color: #388E3C;
 }
 
 #adicionar:active {
-    background-color: #1F5F99;
+    background-color: #2E7D32;
 }
 
 /* LISTA DE TAREFAS */
